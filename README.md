@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Full Stack com 4 anos de experiência em desenvolvimento de aplicações web,<br>aplicativos mobile, aplicações windows e jogos. Conhecimento profundo e experiência em<br>tecnologias front-end e back-end, incluindo HTML, CSS, JavaScript, Angular, C#, e bancos de dados<br>como MySQL. Experiência em colaboração com equipes multidisciplinares, desenvolvimento de<br>soluções escaláveis e uso de metodologias ágeis.</p>
+<p align="left">Desenvolvedor Full Stack com 4 anos de experiência em desenvolvimento de aplicações web,<br>aplicativos mobile, aplicações windows e jogos. Conhecimento profundo e experiência em<br>tecnologias front-end e back-end, incluindo HTML, CSS, JavaScript, Angular, C#, e bancos de dados<br>como MySQL.</p>
 
 ###
 
